@@ -1,0 +1,5828 @@
+[
+  {
+    "name": "Balu shahi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "maida flour",
+      "yogurt",
+      "oil",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Boondi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "gram flour",
+      "ghee",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Gajar ka halwa",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "carrots",
+      "milk",
+      "sugar",
+      "ghee",
+      "cashews",
+      "raisins"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Ghevar",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "flour",
+      "ghee",
+      "kewra",
+      "milk",
+      "clarified butter",
+      "sugar",
+      "almonds",
+      "pistachio",
+      "saffron",
+      "green cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Gulab jamun",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "milk powder",
+      "plain flour",
+      "baking powder",
+      "ghee",
+      "milk",
+      "sugar",
+      "water",
+      "rose water"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Imarti",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "sugar syrup",
+      "lentil flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Jalebi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "maida",
+      "corn flour",
+      "baking soda",
+      "vinegar",
+      "curd",
+      "water",
+      "turmeric",
+      "saffron",
+      "cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Kaju katli",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "cashews",
+      "ghee",
+      "cardamom",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Kalakand",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "milk",
+      "cottage cheese",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Kheer",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "milk",
+      "rice",
+      "sugar",
+      "dried fruits"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Laddu",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "gram flour",
+      "ghee",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Lassi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "yogurt",
+      "milk",
+      "nuts",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Nankhatai",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "refined flour",
+      "besan",
+      "ghee",
+      "powdered sugar",
+      "yoghurt",
+      "green cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Petha",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "firm white pumpkin",
+      "sugar",
+      "kitchen lime",
+      "alum powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Phirni",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice",
+      "sugar",
+      "nuts"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Rabri",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "condensed milk",
+      "sugar",
+      "spices",
+      "nuts"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Sheera",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "semolina",
+      "ghee",
+      "nuts",
+      "milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Singori",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "khoa",
+      "coconut",
+      "molu leaf"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Sohan halwa",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "corn flour",
+      "ghee",
+      "dry fruits"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Sohan papdi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "gram flour",
+      "ghee",
+      "sugar",
+      "milk",
+      "cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Chhena jalebi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chhena",
+      "sugar",
+      "ghee"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Chhena kheeri",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chhena",
+      "sugar",
+      "milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Chhena poda",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "sugar",
+      "chenna cheese"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Cham cham",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "flour",
+      "cream",
+      "sugar",
+      "saffron",
+      "lemon juice",
+      "coconut flakes"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Kheer sagar",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chenna",
+      "condensed milk",
+      "sugar",
+      "saffron",
+      "cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Ledikeni",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chhena",
+      "sugar",
+      "ghee"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Lyangcha",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "flour",
+      "fried milk power",
+      "sugar syrup"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Malapua",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "yoghurt",
+      "refined flour",
+      "ghee",
+      "fennel seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Mihidana",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "besan flour",
+      "sugar",
+      "ghee"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Misti doi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "milk",
+      "jaggery"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Pantua",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chhena",
+      "sugar",
+      "ghee",
+      "flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Pithe",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "wheat flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Rasabali",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chenna",
+      "sweetened milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Ras malai",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chhena",
+      "reduced milk",
+      "pistachio"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Rasgulla",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chhena",
+      "sugar",
+      "cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Sandesh",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "milk",
+      "sugar",
+      "saffron",
+      "cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Adhirasam",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "jaggery",
+      "ghee",
+      "vegetable oil",
+      "elachi"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Ariselu",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "jaggery",
+      "ghee"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Bandar laddu",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "besan",
+      "jaggery",
+      "cardamom powder",
+      "ghee",
+      "cashews and raisins",
+      "jaggery syrup",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Chikki",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "peanuts",
+      "jaggery"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Dharwad pedha",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "milk",
+      "sugar",
+      "dharwadi buffalo milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Double ka meetha",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "loaf bread",
+      "milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Gavvalu",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "sugar",
+      "salt",
+      "ghee",
+      "semolina"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Kakinada khaja",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "wheat flour",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Kuzhi paniyaram",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "black lentils",
+      "rice"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Mysore pak",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "besan flour",
+      "semolina",
+      "mung bean",
+      "jaggery",
+      "coconut",
+      "skimmed milk powder",
+      "sugar",
+      "ghee"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Obbattu holige",
+    "tags": [
+      "main course",
+      "sweet"
+    ],
+    "ingredients": [
+      "maida flour",
+      "turmeric",
+      "coconut",
+      "chickpeas",
+      "jaggery",
+      "ghee",
+      "cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Palathalikalu",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Poornalu",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "chana dal",
+      "jaggery"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Pongal",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice",
+      "jaggery",
+      "cashews",
+      "ghee"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Pootharekulu",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "powdered sugar",
+      "ghee"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Qubani ka meetha",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "apricots",
+      "sugar syrup"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Sheer korma",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "vermicelli pudding",
+      "milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Unni Appam",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "banana",
+      "jaggery",
+      "coconut"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Kajjikaya",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "jaggery",
+      "coconut"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Anarsa",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "jaggery",
+      "khus-khus seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Basundi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "sugar",
+      "milk",
+      "nuts"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Dhondas",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "cucumber",
+      "rava"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Doodhpak",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "milk",
+      "rice",
+      "sugar",
+      "dry fruits"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Mahim halwa",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "semolina",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Modak",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice flour",
+      "coconut",
+      "jaggery"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Shankarpali",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "sugar",
+      "ghee",
+      "maida flour",
+      "semolina"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Shrikhand",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "curd",
+      "sugar",
+      "saffron",
+      "cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Sutar feni",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "maida",
+      "sugar",
+      "ghee"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Maach Jhol",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "fish",
+      "potol",
+      "tomato",
+      "chillies",
+      "ginger",
+      "garlic"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Pork Bharta",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "boiled pork",
+      "onions",
+      "chillies",
+      "ginger and garlic"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Chak Hao Kheer",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice",
+      "milk",
+      "sugar",
+      "cardamom"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Galho",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice",
+      "axone",
+      "salt",
+      "water",
+      "chillies",
+      "pork"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Aloo gobi",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "cauliflower",
+      "potato",
+      "garam masala",
+      "turmeric",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Aloo tikki",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice flour",
+      "potato",
+      "bread crumbs",
+      "garam masala",
+      "salt"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Aloo matar",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "potato",
+      "peas",
+      "chillies",
+      "ginger",
+      "garam masala",
+      "garlic"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Aloo methi",
+    "tags": [
+      "main course",
+      "bitter"
+    ],
+    "ingredients": [
+      "potato",
+      "fenugreek leaves",
+      "chillies",
+      "salt",
+      "oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Aloo shimla mirch",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "potato",
+      "shimla mirch",
+      "garam masala",
+      "amchur powder",
+      "salt"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Bhatura",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chole",
+      "rava",
+      "yogurt",
+      "plain flour",
+      "baking soda"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Bhindi masala",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "ladies finger",
+      "garam masala",
+      "kasuri methi",
+      "tomatoes",
+      "chili powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Biryani",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chicken thighs",
+      "basmati rice",
+      "star anise",
+      "sweet",
+      "green chillies"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Butter chicken",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chicken",
+      "greek yogurt",
+      "cream",
+      "garam masala powder",
+      "cashew nuts",
+      "butter"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Chana masala",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chickpeas",
+      "tomato paste",
+      "garam masala",
+      "ginger",
+      "red onion",
+      "avocado oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Chapati",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "olive oil",
+      "hot water",
+      "all purpose flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Chicken razala",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chicken",
+      "dahi",
+      "sesame seeds",
+      "garam masala powder",
+      "cashew nuts",
+      "saffron"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Chicken Tikka masala",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "naan bread",
+      "tomato sauce",
+      "skinless chicken breasts",
+      "heavy cream",
+      "garam masala"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Chicken Tikka",
+    "tags": [
+      "starter",
+      "spicy"
+    ],
+    "ingredients": [
+      "chicken",
+      "whole wheat bread",
+      "rice flour",
+      "garam masala powder",
+      "whole egg"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Chole bhature",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chole",
+      "bhatura",
+      "garam masala",
+      "bay leaf",
+      "cinnamon stick"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Daal baati churma",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "moong dal",
+      "masoor dal",
+      "chana dal",
+      "wheat flour",
+      "almond"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Daal puri",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "moong dal",
+      "garam masala powder",
+      "garlic",
+      "green chilli",
+      "all purpose flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Dal makhani ",
+    "tags": [
+      "main course",
+      "sweet"
+    ],
+    "ingredients": [
+      "red kidney beans",
+      "urad dal",
+      "cream",
+      "garam masala",
+      "chili powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Dal tadka",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "pigeon peas",
+      "garam masala",
+      "ginger",
+      "red onion",
+      "kasuri methi"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Dum aloo",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "baby potatoes",
+      "garam masala",
+      "cashew nuts",
+      "kasuri methi",
+      "tomatoes"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Poha",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "beaten rice flakes",
+      "potato",
+      "curry leaves",
+      "green chilies",
+      "lemon juice"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Fara",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "whole wheat flour",
+      "arhar dal",
+      "white urad dal",
+      "garam masala powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Kachori",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "moong dal",
+      "rava",
+      "garam masala",
+      "dough",
+      "fennel seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Kadai paneer",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "cottage cheese",
+      "bell peppers",
+      "gravy",
+      "garam masala",
+      "cashew nuts"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Kadhi pakoda",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "besan",
+      "garam masala powder",
+      "gram flour",
+      "ginger",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Karela bharta",
+    "tags": [
+      "main course",
+      "bitter"
+    ],
+    "ingredients": [
+      "bitter gourd",
+      "fennel",
+      "garam masala powder",
+      "chili powder",
+      "amchur powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Khichdi",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "moong dal",
+      "green peas",
+      "ginger",
+      "tomato",
+      "green chili"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Kofta",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "paneer",
+      "potato",
+      "cream",
+      "corn flour",
+      "garam masala"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kulfi falooda",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rose syrup",
+      "falooda sev",
+      "mixed nuts",
+      "saffron",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Lauki ke kofte",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "bottle gourd",
+      "garam masala powder",
+      "gram flour",
+      "ginger",
+      "chillies"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Lauki ki subji",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "bottle gourd",
+      "coconut oil",
+      "garam masala",
+      "ginger",
+      "green chillies"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Litti chokha",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "wheat flour",
+      "roasted gram flour",
+      "tomato",
+      "nigella seeds",
+      "chilli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Makki di roti sarson da saag",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "palak",
+      "makki atta",
+      "mustard green",
+      "garam masala",
+      "ginger"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Misi roti",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "chickpea flour",
+      "green chilies"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Mushroom do pyaza",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "mushroom",
+      "malai",
+      "garam masala",
+      "ginger",
+      "capsicum"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Mushroom matar",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "canned coconut milk",
+      "frozen green peas",
+      "wild mushrooms",
+      "garam masala",
+      "tomatoes"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Naan",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "honey",
+      "butter",
+      "garlic"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Navrattan korma",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "green beans",
+      "potatoes",
+      "khus khus",
+      "low fat",
+      "garam masala powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Palak paneer",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "cottage cheese",
+      "palak",
+      "cream",
+      "garam masala",
+      "butter"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Paneer butter masala",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "paneer",
+      "whipping cream",
+      "garam masala",
+      "cashew nuts",
+      "butter"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Paneer tikka masala",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "paneer",
+      "greek yogurt",
+      "tandoori masala",
+      "cream",
+      "bell pepper"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Pani puri",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "kala chana",
+      "mashed potato",
+      "boondi",
+      "sev",
+      "lemon"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Panjeeri",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "musk melon seeds",
+      "poppy seeds",
+      "edible gum",
+      "semolina"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Papad",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "urad dal",
+      "sev",
+      "lemon juice",
+      "chopped tomatoes"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Paratha",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "wheat flour",
+      "butter",
+      "potato",
+      "coriander"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Pattor",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "arbi ke patte",
+      "sesame seeds",
+      "gur",
+      "bengal gram flour",
+      "imli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Pindi chana",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "fennel",
+      "tea bags",
+      "tomato",
+      "kasuri methi",
+      "cinnamon"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Rajma chaval",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "red kidney beans",
+      "garam masala powder",
+      "ginger",
+      "tomato",
+      "mustard oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Rongi",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "garam masala powder",
+      "tomato",
+      "kasuri methi",
+      "cinnamon",
+      "mustard oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Samosa",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "potatoes",
+      "green peas",
+      "garam masala",
+      "ginger",
+      "dough"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Sattu ki roti",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "sattu",
+      "atta",
+      "dough",
+      "filling",
+      "mustard oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Shahi paneer",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "cottage cheese",
+      "malai",
+      "garam masala",
+      "ginger",
+      "tomato"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "evening"
+    ]
+  },
+  {
+    "name": "Shahi tukra",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rose water",
+      "milk",
+      "white bread slices",
+      "saffron",
+      "almonds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Vegetable jalfrezi",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "baby corn",
+      "french beans",
+      "garam masala",
+      "ginger",
+      "carrot"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Tandoori Chicken",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "greek yogurt",
+      "garam masala",
+      "kasuri methi",
+      "marinade",
+      "mustard oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Tandoori Fish Tikka",
+    "tags": [
+      "starter",
+      "spicy"
+    ],
+    "ingredients": [
+      "chickpea flour",
+      "biryani masala powder",
+      "yogurt",
+      "fish fillets",
+      "green bell pepper"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Attu",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "arhar dal",
+      "ginger",
+      "kala jeera",
+      "green chilli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Avial",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "raw banana",
+      "elephant foot yam",
+      "long beans",
+      "tindora",
+      "urad dal"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Bisi bele bath",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "split pigeon peas",
+      "chana dal",
+      "urad dal",
+      "green peas",
+      "french beans"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Currivepillai sadam ",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "urad dal",
+      "fresh coconut",
+      "sesame seeds",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Dosa",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "urad dal",
+      "whole urad dal",
+      "blend rice",
+      "rock salt"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Idiappam",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice flour",
+      "hot water",
+      "grated coconut"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Idli",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "split urad dal",
+      "urad dal",
+      "idli rice",
+      "thick poha",
+      "rock salt"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Kanji",
+    "tags": [
+      "snack",
+      "-1"
+    ],
+    "ingredients": [
+      "carrot",
+      "yellow mustard",
+      "red chilli",
+      "black salt"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Kaara kozhambu",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "sesame oil",
+      "drumstick",
+      "tamarind paste",
+      "sambar powder",
+      "tomato"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Keerai kootu",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "moong dal",
+      "chana dal",
+      "spinach",
+      "urad dal",
+      "coconut oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Keerai masiyal",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "urad dal",
+      "curry leaves",
+      "sugar",
+      "mustard seeds",
+      "spinach"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Keerai sadam",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "greens",
+      "tomato",
+      "mustard seeds",
+      "fenugreek seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Keerai poriyal",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "amaranth leaves",
+      "split urad dal",
+      "mustard seeds",
+      "grated coconut",
+      "red chili"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Beef Fry",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "beef",
+      "coconut",
+      "garam masala",
+      "curry leaves",
+      "green chilies",
+      "chili powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kootu",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "urad dal",
+      "potato",
+      "beans",
+      "peas"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kos kootu",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "moong dal",
+      "chana dal",
+      "cabbage",
+      "tamarind",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Koshambri",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "moong dal",
+      "cucumber",
+      "curry leaves",
+      "green chili",
+      "lemon juice"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kothamali sadam",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "urad dal",
+      "gooseberry",
+      "raw rice",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kuzhakkattai",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "sesame oil",
+      "raw rice",
+      "jaggery",
+      "grated coconut"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kuzhambu",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "pearl onions",
+      "urad dal",
+      "drumsticks",
+      "tomato",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Masala Dosa",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "urad dal",
+      "potatoes",
+      "idli rice",
+      "thick poha"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Pachadi",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "coconut oil",
+      "cucumber",
+      "curd",
+      "curry leaves",
+      "mustard seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Paniyaram",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "yogurt",
+      "ginger",
+      "curry leaves",
+      "baking soda",
+      "green chilli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Papadum",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "lentils",
+      "black pepper",
+      "vegetable oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Paravannam",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "raw rice",
+      "jaggery",
+      "milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Payasam",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice",
+      "cashew nuts",
+      "milk",
+      "raisins",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Paruppu sadam",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "arhar dal",
+      "sambar powder",
+      "tomato",
+      "curry leaves",
+      "fennel seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Pesarattu",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "green moong beans",
+      "rice flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Poriyal",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "urad dal",
+      "beans",
+      "coconut",
+      "mustard"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Puli sadam",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "urad dal",
+      "lemon",
+      "tamarind",
+      "cooked rice",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Rasam",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "tomato",
+      "curry leaves",
+      "garlic",
+      "mustard seeds",
+      "hot water"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Puttu",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "brown rice flour",
+      "sugar",
+      "grated coconut"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Sambar",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "pigeon peas",
+      "eggplant",
+      "drumsticks",
+      "sambar powder",
+      "tamarind"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Sandige",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "thin rice flakes",
+      "black sesame seeds",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Sevai",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "sevai",
+      "parboiled rice",
+      "steamer"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Thayir sadam",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "urad dal",
+      "curd",
+      "sesame oil",
+      "ginger",
+      "curry leaves",
+      "mustard seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Theeyal",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "coconut",
+      "whole red beans",
+      "masala",
+      "sesame oil",
+      "tamarind"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Uttapam",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "urad dal",
+      "thick poha",
+      "tomato",
+      "butter"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Vada",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "urad dal",
+      "ginger",
+      "curry leaves",
+      "green chilies",
+      "black pepper"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Chicken Varuval",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "meat curry powder",
+      "chicken chunks",
+      "ginger",
+      "tomato",
+      "cinnamon"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Upma",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "chana dal",
+      "urad dal",
+      "ginger",
+      "curry leaves",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Amti",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "kala masala",
+      "arhar dal",
+      "curry leaves",
+      "mustard seeds",
+      "hot water"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Zunka",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "gram flour",
+      "mustard",
+      "garlic",
+      "turmeric",
+      "red chilli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kolim Jawla",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "baingan",
+      "fish",
+      "coconut oil",
+      "fresh coconut",
+      "ginger"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Saath",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "urad dal",
+      "potatoes",
+      "wheat flour",
+      "sooji"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Bajri no rotlo",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "wheat flour",
+      "pearl millet flour",
+      "hot water"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Coconut vadi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "condensed milk",
+      "mawa",
+      "desiccated coconut",
+      "almonds",
+      "cashews"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Bhakri",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "jowar flour",
+      "sesame seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Bombil fry",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "bombay duck",
+      "malvani masala",
+      "rice flour",
+      "bombay rava",
+      "green chilies"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Chakali",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice flour",
+      "sesame",
+      "plain flour",
+      "turmeric",
+      "red chilli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Chevdo",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "citric acid",
+      "fry",
+      "raisins",
+      "sugar",
+      "chana daal"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Chorafali",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "urad dal",
+      "bengal gram flour",
+      "dried mango",
+      "baking soda",
+      "black salt"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Copra paak",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "condensed milk",
+      "nestle cream",
+      "coconut ice",
+      "red food coloring",
+      "desiccated coconut"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Daal Dhokli",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "dal",
+      "kokum",
+      "gur",
+      "bengal gram flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kutchi dabeli",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "pav",
+      "aloo",
+      "peanut",
+      "pomegranate",
+      "star anise"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Dahi vada",
+    "tags": [
+      "snack",
+      "-1"
+    ],
+    "ingredients": [
+      "urad dal",
+      "bhuna chana",
+      "garam masala",
+      "dates",
+      "tamarind"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Dalithoy",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "arhar dal",
+      "coconut oil",
+      "curry leaves",
+      "mustard seeds",
+      "red chilli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Dhokla",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "rava",
+      "coconut",
+      "gram flour",
+      "mustard",
+      "sesame"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Dudhi halwa",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "bottle gourd",
+      "green",
+      "raisins",
+      "sugar",
+      "clarified butter"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Gatta curry",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "yogurt",
+      "besan",
+      "sauce",
+      "garam masala powder",
+      "gram flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Gud papdi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "wheat flour",
+      "jaggery",
+      "clarified butter",
+      "sliced almonds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Ghooghra",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "dry fruits",
+      "semolina",
+      "all purpose flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Handwo",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "bottle gourd",
+      "chana dal",
+      "cabbage",
+      "urad dal",
+      "toor dal"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Halvasan",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "whole wheat rava",
+      "chia seed",
+      "lemon",
+      "edible gum",
+      "litre milk"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Jeera Aloo",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "green chilies",
+      "lemon juice",
+      "chili powder",
+      "boiled potatoes"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kansar",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "wheat flour",
+      "cashews",
+      "rapeseed oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Keri no ras",
+    "tags": [
+      "main course",
+      "sour"
+    ],
+    "ingredients": [
+      "mango",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Khakhra",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "low fat",
+      "bengal gram flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Khandvi",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "green chili paste",
+      "white sesame seeds",
+      "gram flour",
+      "curry leaves",
+      "green chili"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Kombdi vade",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice flour",
+      "urad dal",
+      "wheat flour",
+      "gram flour",
+      "turmeric"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Laapsi",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "cinnamon",
+      "jaggery",
+      "clarified butter",
+      "dry roasted"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Koshimbir",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "cucumber",
+      "carrot",
+      "tomatoes",
+      "cilantro"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Methi na Gota",
+    "tags": [
+      "main course",
+      "bitter"
+    ],
+    "ingredients": [
+      "rava",
+      "gram flour",
+      "lemon juice",
+      "turmeric",
+      "fenugreek leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Mohanthal",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rose water",
+      "pistachio",
+      "badam",
+      "bengal gram flour",
+      "saffron"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Muthiya",
+    "tags": [
+      "snack",
+      "bitter"
+    ],
+    "ingredients": [
+      "bottle gourd",
+      "whole wheat flour",
+      "rava",
+      "sesame seeds",
+      "bengal gram flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Patra",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "arbi ke patte",
+      "sesame seeds",
+      "gur",
+      "bengal gram flour",
+      "imli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Pav Bhaji",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "pav bhaji masala",
+      "gobi",
+      "potatoes",
+      "green peas",
+      "dinner rolls"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Puri Bhaji",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "aloo",
+      "urad dal",
+      "mustard",
+      "ginger",
+      "curry leaves"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Sabudana Khichadi",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "raw peanuts",
+      "sabudana",
+      "lemon",
+      "avocado oil",
+      "curry leaves",
+      "green chili"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Sev khamani",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "khaman",
+      "pomegranate",
+      "sev",
+      "powdered sugar",
+      "garlic"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Sev tameta",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "sev",
+      "ginger",
+      "tomato",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Namakpara",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "wheat flour",
+      "baking soda",
+      "all purpose flour",
+      "black pepper",
+      "sunflower oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Sukhdi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "gur",
+      "clarified butter"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Surnoli",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice flakes",
+      "yogurt",
+      "raw rice",
+      "jaggery",
+      "grated coconut"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Thalipeeth",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "rice flour",
+      "pearl millet flour",
+      "sorghum flour",
+      "sesame seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Undhiyu",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "sweet potato",
+      "surti papdi",
+      "baby potatoes",
+      "valor papdi",
+      "green peas"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Veg Kolhapuri",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "gobi",
+      "potato",
+      "beans",
+      "khus khus",
+      "coconut"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Vindaloo",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "chicken",
+      "coconut oil",
+      "wine vinegar",
+      "ginger",
+      "green",
+      "cinnamon"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Lilva Kachori",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "green garlic chutney",
+      "fresh green peas",
+      "ginger",
+      "lemon juice",
+      "plain flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Mag Dhokli",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "moong beans",
+      "jaggery",
+      "red chillies",
+      "oil",
+      "salt"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Khichu",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice flour",
+      "sesame seeds",
+      "baking soda",
+      "peanut oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Thepla",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "chickpea flour",
+      "methi leaves",
+      "jowar flour",
+      "wheat flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Farsi Puri",
+    "tags": [
+      "snack",
+      "-1"
+    ],
+    "ingredients": [
+      "semolina",
+      "clarified butter",
+      "oil",
+      "white flour",
+      "black pepper"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Khaman",
+    "tags": [
+      "snack",
+      "spicy"
+    ],
+    "ingredients": [
+      "yogurt",
+      "fresh coconut",
+      "sesame seeds",
+      "semolina",
+      "gram flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "morning"
+    ]
+  },
+  {
+    "name": "Turiya Patra Vatana sabji",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "ridge gourd",
+      "baking soda",
+      "sugar",
+      "grated coconut",
+      "peas"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Churma Ladoo",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "khus khus",
+      "sesame seeds",
+      "dry coconut",
+      "gur"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Cheera Doi",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "rice",
+      "mango",
+      "curd"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Gheela Pitha",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "sticky rice",
+      "rice flour",
+      "jaggery",
+      "orange rind"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Khar",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "raw papaya",
+      "panch phoran masala",
+      "nigella seeds",
+      "mustard oil",
+      "fennel seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kumol Sawul",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice",
+      "eggs",
+      "carrot",
+      "beetroot"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Luchi",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "maida",
+      "vegetable oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Alu Pitika",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "potatoes",
+      "mustard oil",
+      "fish",
+      "green chillies"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Masor tenga",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "ridge gourd",
+      "fish",
+      "lemon",
+      "tomatoes",
+      "mustard oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Bengena Pitika",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "brinjal",
+      "onions",
+      "salt",
+      "sesame seeds",
+      "coriander"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Bilahi Maas",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "potatoes",
+      "garam masala",
+      "tomatoes",
+      "mustard oil",
+      "bay leaf"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Black rice",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "forbidden black rice",
+      "chicken",
+      "olive oil",
+      "slivered almonds",
+      "garlic powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Bora Sawul",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "biryani masala",
+      "mixed vegetables",
+      "yellow moong daal",
+      "whole red",
+      "mustard seeds"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Brown Rice",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "brown rice",
+      "soy sauce",
+      "olive oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Chingri malai curry",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "coconut milk",
+      "lobster",
+      "fresh green chilli",
+      "ginger",
+      "red onion"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Goja",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "baking soda",
+      "clarified butter",
+      "oil",
+      "all purpose flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Hando Guri",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "jaggery",
+      "raisins"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Haq Maas",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "lamb",
+      "garam masala powder",
+      "curd",
+      "turmeric",
+      "bay leaf"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Chingri Bhape",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "coconut",
+      "prawns",
+      "curd",
+      "mustard seed",
+      "green chili"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Kabiraji",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "fish fillet",
+      "besan",
+      "lemon",
+      "mint",
+      "ginger"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Khorisa",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "fermented bamboo shoot",
+      "potato",
+      "ginger",
+      "green",
+      "mustard oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Koldil Chicken",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "banana flower",
+      "chicken",
+      "green chili",
+      "mustard oil",
+      "lemon juice"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Konir Dom",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "aloo",
+      "tomatoes",
+      "mustard oil",
+      "bay leaf",
+      "cinnamon stick"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Koldil Duck",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "rice flour",
+      "mutton",
+      "banana",
+      "gram flour",
+      "olive oil",
+      "baking powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Masor Koni",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "fish roe",
+      "pumpkin flowers",
+      "mustard oil",
+      "turmeric",
+      "tomato"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Mishti Chholar Dal",
+    "tags": [
+      "main course",
+      "sweet"
+    ],
+    "ingredients": [
+      "chana dal",
+      "fresh coconut",
+      "ginger",
+      "cinnamon",
+      "raisins"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Pakhala",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "curd",
+      "cooked rice",
+      "curry leaves",
+      "dry chilli"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Pani Pitha",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "tea leaves",
+      "white sesame seeds",
+      "dry coconut",
+      "soaked rice"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Payokh",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "basmati rice",
+      "rose water",
+      "sugar",
+      "clarified butter",
+      "cardamom pods"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Prawn malai curry",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "coconut milk",
+      "prawns",
+      "garlic",
+      "turmeric",
+      "sugar"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Red Rice",
+    "tags": [
+      "main course",
+      "-1"
+    ],
+    "ingredients": [
+      "red pepper",
+      "red onion",
+      "butter",
+      "watercress",
+      "olive oil"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon"
+    ]
+  },
+  {
+    "name": "Shukto",
+    "tags": [
+      "main course",
+      "spicy"
+    ],
+    "ingredients": [
+      "green beans",
+      "bitter gourd",
+      "ridge gourd",
+      "banana",
+      "brinjal"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "name": "Til Pitha",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "glutinous rice",
+      "black sesame seeds",
+      "gur"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Bebinca",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "coconut milk",
+      "egg yolks",
+      "clarified butter",
+      "all purpose flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Shufta",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "cottage cheese",
+      "dry dates",
+      "dried rose petals",
+      "pistachio",
+      "badam"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Mawa Bati",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "milk powder",
+      "dry fruits",
+      "arrowroot powder",
+      "all purpose flour"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  },
+  {
+    "name": "Pinaca",
+    "tags": [
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "brown rice",
+      "fennel seeds",
+      "grated coconut",
+      "black pepper",
+      "ginger powder"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "weather_tags": [
+      "any"
+    ],
+    "time_tags": [
+      "any"
+    ]
+  }
+]

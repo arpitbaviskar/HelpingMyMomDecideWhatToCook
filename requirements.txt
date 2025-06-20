@@ -4,6 +4,3 @@ numpy==1.26.4
 scikit-learn==1.5.0
 joblib==1.4.2
 matplotlib==3.9.0
-# Optional if you're scraping recipes or using NLP
-beautifulsoup4==4.12.3
-requests==2.32.3
